@@ -2,7 +2,7 @@
   "name": "bmi",
   "version": "1.0.0",
   "description": "bmi calculator",
-  "main": "index.js",
+  "main": "node.js",
   "dependencies": {
     "express": "^4.17.1"
   },
